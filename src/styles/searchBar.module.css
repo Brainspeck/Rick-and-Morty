@@ -1,0 +1,18 @@
+.container{
+    display: flex;
+    margin: auto;
+    width: 50%;
+    margin-top: 25px;
+    justify-content: center;
+}
+
+.container input{
+    border-radius: 5px;
+    height: 20px;
+}
+
+.container button{
+    height: 20px;
+    border-radius: 5px;
+   font-size: 10px;
+}
